@@ -1,3 +1,5 @@
+![alt text]([https://github.com/LuisGloria/XRewinded/blob/main/Rewinded.png])
+
 # XRewinded
 Bringing justice back to those who can't access Twitter/𝕏<br/>
 
