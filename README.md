@@ -25,7 +25,7 @@ XRewinded is a platform designed to allow users to reconnect with their X/Twitte
 
    ```bash
    git clone https://github.com/LuisGloria/XRewinded.git
-   cd XRewinded```
+   cd XRewinded
 
 2. **Starting**
 
