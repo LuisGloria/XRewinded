@@ -1,0 +1,22 @@
+/* src/components/Window.css */
+.window {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 400px;
+    margin: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+  
+  .window-header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  .window-content {
+    padding: 20px;
+  }
+  

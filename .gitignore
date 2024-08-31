@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+
+# Python
+__pycache__/
+env/
+*.pyc
+
+# Mobile
+*.apk
+*.ipa
+
+# General
+.DS_Store
+.vscode/
+.idea/
